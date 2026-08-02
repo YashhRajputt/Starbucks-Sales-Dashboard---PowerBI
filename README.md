@@ -88,7 +88,7 @@ The report helps identify sales trends, customer preferences, operational perfor
 
 ### Executive Overview
 
-![Overview]([IMAGES/Customer Insights.png](https://github.com/YashhRajputt/Starbucks-Sales-Dashboard---PowerBI/blob/513e0251796588b4627a2ba9e5cd8fe5977dd318/IMAGES/Overview.png))
+![Overview](https://github.com/YashhRajputt/Starbucks-Sales-Dashboard---PowerBI/blob/99bac2101f903eb17cf515de5768baf7b74f64cd/IMAGES/Overview.png).
 
 ### Customer Insights
 
