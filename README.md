@@ -92,7 +92,7 @@ The report helps identify sales trends, customer preferences, operational perfor
 
 ### Customer Insights
 
-![Customer](Images/customer.png)
+![Customer](https://github.com/YashhRajputt/Starbucks-Sales-Dashboard---PowerBI/blob/59401227420e4103825b1550079903cb040699fa/IMAGES/Customer%20Insights.png)
 
 ### Time Analysis
 
