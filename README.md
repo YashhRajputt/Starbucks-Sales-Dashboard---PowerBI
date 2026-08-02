@@ -96,7 +96,7 @@ The report helps identify sales trends, customer preferences, operational perfor
 
 ### Time Analysis
 
-![Time Analysis](Images/time-analysis.png)
+![Time Analysis](https://github.com/YashhRajputt/Starbucks-Sales-Dashboard---PowerBI/blob/e1a1e671b7da936bc6b816dc469328e4226386e0/IMAGES/Time%20Analysis.png)
 
 ---
 
