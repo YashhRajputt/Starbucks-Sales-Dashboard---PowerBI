@@ -88,7 +88,7 @@ The report helps identify sales trends, customer preferences, operational perfor
 
 ### Executive Overview
 
-![Overview](Images/overview.png)
+![Overview](IMAGES/Customer Insights.png)
 
 ### Customer Insights
 
